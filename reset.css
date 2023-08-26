@@ -28,3 +28,19 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+a {
+    color: antiquewhite;
+}
+
+a:active {
+    color: rgb(214, 185, 190);
+}
+
+a:visited {
+    color: pink;
+}
+
+ul {
+    list-style: none;
+}
