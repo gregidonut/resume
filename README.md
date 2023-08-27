@@ -3,7 +3,7 @@ LANDLINE: 8353-5732
 CELL: 09351035157  
 BLOG: [ScumJournal](https://scumjournal.pages.dev)  
 [Github](https://github.com/gregidonut)  
-EMAIL: gregosilaja@outlook.com
+EMAIL: gregosilaja@outlook.com  
 ADDRESS: C5L SUNTRUST ADRIATICO GARDENS, MALATE MANILA CITY, METRO MANILA  
 
 ## PROFILE
