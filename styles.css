@@ -97,6 +97,10 @@ main section:nth-child(n+3) ul {
     padding-bottom: 1rem;
 }
 
+div.education-experience-col section ul {
+    padding-left: 3rem;
+    list-style: circle;
+}
 
 @media only screen and (min-width: 1200px) {
     div.education-experience-col {
