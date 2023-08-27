@@ -77,6 +77,16 @@ section h2 {
     text-indent: 3rem;
 }
 
+main section p strong {
+    margin: .2rem;
+    padding: .3rem;
+    border: .5rem solid antiquewhite;
+    text-indent: 0;
+    background-color: antiquewhite;
+
+    color: black
+}
+
 main section:nth-child(n+3) p {
     padding: 0 4rem;
 }
@@ -85,4 +95,19 @@ main section:nth-child(n+3) ul {
     list-style: circle;
     padding: 0 7rem;
     padding-bottom: 1rem;
+}
+
+
+@media only screen and (min-width: 1200px) {
+    div.education-experience-col {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+}
+
+p.family strong {
+    background: none;
+    color: antiquewhite;
+    border: none;
 }
