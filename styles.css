@@ -29,13 +29,17 @@ section {
     padding: 2rem 0;
 }
 
-section.relevant-skills>ul.primary {
+section.relevant-skills>div.relevant-skills-content {
+    padding-left: 3rem;
+}
+
+section.relevant-skills>div>ul.primary {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
 }
 
 @media only screen and (min-width: 600px) {
-    section.relevant-skills>ul.primary {
+    section.relevant-skills>div>ul.primary {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
@@ -43,26 +47,27 @@ section.relevant-skills>ul.primary {
 }
 
 @media only screen and (min-width: 1200px) {
-    section.relevant-skills>ul.primary {
+    section.relevant-skills>div>ul.primary {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
 @media only screen and (min-width: 1800px) {
-    section.relevant-skills>ul.primary {
+    section.relevant-skills>div>ul.primary {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
     }
 }
 
-section.relevant-skills>ul.primary li strong {
+section.relevant-skills>div>ul.primary li strong {
     text-decoration: underline;
 }
 
-section.relevant-skills>ul li ul li {
+section.relevant-skills>div ul li ul li {
     text-indent: 3rem;
 }
+
 
 section.relevant-skills>ul.secondary {
     text-indent: 3rem;
