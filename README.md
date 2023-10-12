@@ -49,6 +49,15 @@ EXCELLENT INTERPERSONAL SKILLS AND COMPUTER LITERATE
 - BLENDER
 
 ## EXPERIENCE
+**JANUARY 2023 - PRESENT**  
+Web Application Developer
+github.com/gregidonut - Self-employed  
+PHILIPPINES  
+&nbsp;PROJECTS:  
+- https://github.com/gregidonut/VEWorkflowAutomation
+  - Aug 2023 - Present 
+  - An automation project where we aim to be able to create a full generator of A.I. generated content.
+
 **NOVEMBER 2019 – FEBRUARY 2021**  
 COGNIZANT TECHNOLOGY SOLUTIONS PHILIPPINES,INC - TSR/CSR  
 MCKINLEY HILLS, FORT BONIFACIO, TAGUIG CITY  
