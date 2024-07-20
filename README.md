@@ -1,131 +1,56 @@
 # Gregory Babajide V. Osilaja
+
 LANDLINE: 8353-5732  
 CELL: 09351035157  
 BLOG: [ScumJournal](https://scumjournal.pages.dev)  
 [Github](https://github.com/gregidonut)  
-[Linkedin](https://www.linkedin.com/in/gregory-babajide-v-osilaja-osilaja-8158211a0/)  
+[Linkedin](https://www.linkedin.com/in/gregory-babajide-v-osilaja-8158211a0/)  
 EMAIL: gregosilaja@outlook.com  
-ADDRESS: C5L SUNTRUST ADRIATICO GARDENS, MALATE MANILA CITY, METRO MANILA  
+ADDRESS: MANILA CITY, METRO MANILA
 
-## PROFILE
-THE ABILITY TO CREATE DYNAMIC, RESPONSIVE AND SCALABLE WEB APPS  
-THE ABILITY TO SPEAK ENGLISH EXTREMELY WELL  
-EXCELLENT INTERPERSONAL SKILLS AND COMPUTER LITERATE  
+## FULL STACK WEB DEVELOPER
 
-## RELEVANT SKILLS
-### PROGRAMMING
-- LANGUAGES
-    - PYTHON
-    - GO
-    - HTML & CSS
-    - JAVASCRIPT
-    - TYPESCRIPT
-    - SQL
-    - SVG
-- FRAMEWORKS
-    - DJANGO
-    - SELENIUM
-    - SERVERLESS FRAMEWORK
-    - NEXTJS(REACT)
-    - QWIK
-- DEPLOYMENT SERVICES
-    - AWS LAMBDA, CLOUDFORMATION, LA
-    - CLOUDFLARE
-- OTHER TECHNOLOGIES
-    - GIT
-    - MONGODB
-    - GOOGLE
-    - PHIND/CHATGPT
-    - LINUX
+### RELEVANT SKILLS
 
-### SOFT
-- CUSTOMER SERVICE
-- TECHNICAL SUPPORT
+- **PROGRAMMING LANGUAGES**: PYTHON, GO, HTML & 
+  CSS,
+  JAVASCRIPT, TYPESCRIPT, SQL
+- **FRAMEWORKS**: DJANGO, SELENIUM, PYTEST, 
+  SERVERLESS
+  FRAMEWORK, NEXTJS(REACT), QWIK, CYPRESS
+- **TECHNOLOGIES**: CLOUDFLARE, GIT, MONGODB, 
+  GOOGLE
+  LINUX, FIGMA
+- **SOFT**: CUSTOMER SERVICE, TECHNICAL RESEARCH
 
-### CREATIVE
-- GIMP
-- INKSCAPE
-- FIGMA
-- BLENDER
+### EXPERIENCE
 
-## EXPERIENCE
-**JANUARY 2023 - PRESENT**  
-Web Application Developer
-github.com/gregidonut - Self-employed  
-PHILIPPINES  
-&nbsp;PROJECTS:  
-- https://github.com/gregidonut/VEWorkflowAutomation
-  - Aug 2023 - Present 
-  - An automation project where we aim to be able to create a full generator of A.I. generated content.
+IT Help Desk  
+Infosys BPM LTD | March 2024 -
+Present | Taguig
 
-**NOVEMBER 2019 – FEBRUARY 2021**  
-COGNIZANT TECHNOLOGY SOLUTIONS PHILIPPINES,INC - TSR/CSR  
-MCKINLEY HILLS, FORT BONIFACIO, TAGUIG CITY  
-&nbsp;LOB:
-- YOUTUBE TV (EMAIL, PHONE CHAT)
+- Developing internal automation tools
 
-**MARCH 2017 – JANUARY 2019**  
-CONCENTRIX PHILIPPINES – TSR/CSR  
-UP AYALA TECHNOHUB COMMONWEALTH AVE,  
-DILIMAN, QUEZON CITY  
-&nbsp;LOB:
-- GOOGLE DRIVE (EMAIL, PHONE CHAT)
-- GOOGLE ONE (EMAIL, PHONE CHAT)
+Web Application Developer  
+Self-employed | January 2023 - Present | Manila
 
-**SEPTEMBER 2013 – JANUARY 2015**  
-GENPACT – PROCESS ASSOCIATE  
-NORTHGATE CYBERZONE, ALABANG CITY    
-&nbsp;LOB:
-- WELLS FARGO CUSTOMER CARE (PHONE BANKER)
-- GREENDOT (TIER 1)
+- [Developed VEWorkflowAutomation: A content
+  generation tool](https://www.linkedin.com/posts/gregory-babajide-v-osilaja-8158211a0_videoautomation-workflow-github-activity-7114563300830441472-5W0p?utm_source=share&utm_medium=member_desktop)
 
-## EDUCATION
-**2015 - 2016**  
-BUSINESS MANAGEMENT MAJOR IN ECONOMICS  
-ADAMSON UNIVERSITY  
-SAN MARCELINO ST., MANILA CITY  
+Technical Support Representative  
+Cognizant Technology Solutions | November 2019 –
+February 2021 | Taguig
 
-**2013**  
-COMMERCIAL COOKING COURSE, NCII; GRADUATE JUNE 28, 2013  
-TESDA  
-LAS PINAS MANPOWER TRAINING CENTER, LAS PINAS CITY  
+- Supported YouTube TV via email, phone, and
+  chat.
 
-**2012 - 2013**  
-ARCHITECTURE (UNDERGRADUATE 1  ST YEAR)  
+### EDUCATION
+
+BSBA ECONOMICS (Undergraduate)  
 ADAMSON UNIVERSITY  
 SAN MARCELINO ST., MANILA CITY
 
-**2011 -2012**  
-4TH YEAR HIGHSCHOOL; GRADUATED  
-ST. PAUL LEARNING CENTER  (A CEBU INTERNATIONAL BEACONHOUSE SCHOOL)  
-DON GERVACIO QUIJADA ST., GUADALUPE, CEBU CITY  
+### CERTIFICATES
 
-**2008 - 2011**  
-1ST YEAR TO 3RD YEAR HIGH SCHOOL  
-ST. ANDREW’S SCHOOL  
-QUIRINO, BRGY. LA HUERTA, PARANAQUE CITY  
-
-**2001 - 2008**  
-GRADE 1 – GRADE 6 ELEMENTARY; GRADUATED  
-ST. ANDREW’S SCHOOL  
-QUIRINO, BRGY. LA HUERTA, PARANAQUE CITY  
-
-## CERTIFICATES
 - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/TPA9NC3GEEF7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
 - [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/verify/738V84S9CDXV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-## HOBBIES
-- PROGRAMMING
-- WRITING WEBSITES
-- BLOGGING
-- CYCLING
-- GUITAR
-- SINGING
-- COOKING
-- BASKETBALL
-- TABLE TENNIS
-
-**DATE OF BIRTH:** OCTOBER 4, 1994  
-**PLACE OF BIRTH:** CEBU CITY  
-**MOTHER:** JESSIELYN A. VILLAFLOR, CPA FILIPINA  
-**FATHER:** CHARLES TOKUMBO OSILAJA, COMPUTER ANALYST AMERICAN  
-**BROTHER:** JAIME V. TOMAYAO, RN  
