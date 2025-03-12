@@ -38,7 +38,7 @@ Freelance | January 2023 - Present | Manila
 
 **Technical Support**  
 Cognizant Technology Solutions | November 2019 –
-February 2021 | Taguig
+March 2021 | Taguig
 
 - Supported YouTube TV via email, phone, and
   chat.
