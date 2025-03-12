@@ -1,0 +1,34 @@
+---
+import type { JSX } from "astro/jsx-runtime";
+import { render } from "astro:content";
+import { getEntry } from "astro:content";
+
+import styles from "./main.module.css";
+
+const resumeContent = await getEntry(
+    "resume",
+    "src/components/main/resumecontent/resumecontent",
+);
+const { Content, headings } = await render(resumeContent!);
+---
+
+<main class={styles.main}>
+    <section>
+        <ul>
+            {
+                headings
+                    .filter(function (h) {
+                        return h.depth > 2;
+                    })
+                    .map(function (h): JSX.Element {
+                        return (
+                            <li>
+                                <a href={`/#${h.slug}`}>{h.text}</a>
+                            </li>
+                        );
+                    })
+            }
+        </ul>
+    </section>
+    <Content />
+</main>
