@@ -52,7 +52,7 @@ SAN MARCELINO ST., MANILA CITY
 
 ### CERTIFICATES
 
-- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/543f50af-b39a-4171-b1b3-365c6f822b68/public_url)
+- [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/ac5bbba1-39ea-422a-8414-3f92dfea128d/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/543f50af-b39a-4171-b1b3-365c6f822b68/public_url)
 - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/TPA9NC3GEEF7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
 - [Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/verify/738V84S9CDXV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
