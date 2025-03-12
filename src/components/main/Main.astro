@@ -4,6 +4,7 @@ import { render } from "astro:content";
 import { getEntry } from "astro:content";
 
 import styles from "./main.module.css";
+import oneBy from "@/assets/one_by.jpg?url";
 
 const resumeContent = await getEntry(
     "resume",
@@ -13,22 +14,27 @@ const { Content, headings } = await render(resumeContent!);
 ---
 
 <main class={styles.main}>
-    <section>
-        <ul>
-            {
-                headings
-                    .filter(function (h) {
-                        return h.depth > 2;
-                    })
-                    .map(function (h): JSX.Element {
-                        return (
-                            <li>
-                                <a href={`/#${h.slug}`}>{h.text}</a>
-                            </li>
-                        );
-                    })
-            }
-        </ul>
-    </section>
-    <Content />
+    <header>
+        <img src={oneBy} />
+        <nav>
+            <ul>
+                {
+                    headings
+                        .filter(function (h) {
+                            return h.depth > 2;
+                        })
+                        .map(function (h): JSX.Element {
+                            return (
+                                <li>
+                                    <a href={`/#${h.slug}`}>{h.text}</a>
+                                </li>
+                            );
+                        })
+                }
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <Content />
+    </main>
 </main>

@@ -4,3 +4,20 @@
     width: 100%;
     padding: 1rem;
 }
+
+.main header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.main header img {
+    height: 10rem;
+    border-radius: 50%;
+}
+
+.main main ul,
+.main main p:first-of-type {
+    padding-bottom: 3rem;
+}

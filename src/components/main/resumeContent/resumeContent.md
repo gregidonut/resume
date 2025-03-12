@@ -2,7 +2,7 @@
 
 CELL: +63-962-869-2566  
 GITHUB: https://github.com/gregidonut  
-LINKEDIN: https://www.linkedin.com/in/gregory-babajide-v-osilaja-8158211a0/
+LINKEDIN: https://www.linkedin.com/in/gregory-babajide-v-osilaja-8158211a0/  
 EMAIL: gregosilaja@outlook.com  
 ADDRESS: MANILA CITY, METRO MANILA
 
@@ -13,7 +13,7 @@ ADDRESS: MANILA CITY, METRO MANILA
 - **PROGRAMMING LANGUAGES**: PYTHON, GO, HTML &
   CSS, JAVASCRIPT, TYPESCRIPT, SQL
 - **FRAMEWORKS**: DJANGO, SELENIUM, PYTEST,
-  SERVERLESS FRAMEWORK, NEXTJS(REACT), ASTRO, CYPRESS
+  SERVERLESS FRAMEWORK, ASTROJS, REACT, CYPRESS
 - **CLOUD**: EC2, Lambda, Elastic Load Balancing (ELB), S3
   DynamoDB, RDS, VPC, Route 53, IAM
 - **OTHER TECHNOLOGIES**: CLOUDFLARE, GIT, MONGODB,
