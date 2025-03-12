@@ -16,7 +16,11 @@ const { Content, headings } = await render(resumeContent!);
 <main class={styles.main}>
     <slot>
         <header>
-            <img src={oneBy} />
+            <img
+                src={oneBy}
+                alt="one-by-one image of Gregory Osilaja"
+                height="100"
+            />
             <nav>
                 <ul>
                     {
