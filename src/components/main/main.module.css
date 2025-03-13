@@ -21,3 +21,9 @@
 .main main p:first-of-type {
     padding-bottom: 3rem;
 }
+
+@media print {
+    .main header {
+        display: none;
+    }
+}
