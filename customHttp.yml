@@ -1,5 +1,5 @@
 customHeaders:
     - pattern: "**"
       headers:
-          - key: "X-Frame-Options"
-            value: "ALLOW-FROM http://gregosilaja.cc/cv"
+          - key: "Content-Security-Policy"
+            value: "frame-ancestors 'self' https://gregosilaja.cc"
