@@ -25,8 +25,7 @@ ADDRESS: MANILA CITY, METRO MANILA
 ### EXPERIENCE
 
 **IT Help Desk**  
-Infosys BPM LTD | March 2024 -
-Present | Taguig
+Infosys BPM LTD | March 2024 - June 2025 | Taguig
 
 - Developing internal automation tools
 
