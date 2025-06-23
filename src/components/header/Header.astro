@@ -1,5 +1,31 @@
 ---
 import styles from "./header.module.css";
+import type { JSX } from "astro/jsx-runtime";
+import { render, getEntry } from "astro:content";
+const resumeContent = await getEntry(
+    "resume",
+    "src/components/main/resumecontent/resumecontent",
+);
+
+const { headings } = await render(resumeContent!);
 ---
 
-<header class={styles.header}></header>
+<header class={styles.header}>
+    <nav class={styles.nav}>
+        <ul>
+            {
+                headings
+                    .filter(function (h) {
+                        return h.depth > 2;
+                    })
+                    .map(function (h): JSX.Element {
+                        return (
+                            <li>
+                                <a href={`/#${h.slug}`}>{h.text}</a>
+                            </li>
+                        );
+                    })
+            }
+        </ul>
+    </nav>
+</header>

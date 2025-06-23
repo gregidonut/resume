@@ -1,44 +1,18 @@
 ---
-import type { JSX } from "astro/jsx-runtime";
 import { render } from "astro:content";
 import { getEntry } from "astro:content";
-
 import styles from "./main.module.css";
-import oneBy from "@/assets/one_by.jpg?url";
 
 const resumeContent = await getEntry(
     "resume",
     "src/components/main/resumecontent/resumecontent",
 );
-const { Content, headings } = await render(resumeContent!);
+
+const { Content } = await render(resumeContent!);
 ---
 
 <main class={styles.main}>
     <slot>
-        <header>
-            <img
-                src={oneBy}
-                alt="one-by-one image of Gregory Osilaja"
-                height="100"
-            />
-            <nav>
-                <ul>
-                    {
-                        headings
-                            .filter(function (h) {
-                                return h.depth > 2;
-                            })
-                            .map(function (h): JSX.Element {
-                                return (
-                                    <li>
-                                        <a href={`/#${h.slug}`}>{h.text}</a>
-                                    </li>
-                                );
-                            })
-                    }
-                </ul>
-            </nav>
-        </header>
         <main>
             <Content />
         </main>

@@ -8,4 +8,13 @@
     width: 100%;
 
     min-height: 1rem;
+    position: relative;
+}
+
+.nav {
+    position: absolute;
+    background: #44475a;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem;
 }
