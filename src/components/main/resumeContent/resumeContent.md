@@ -1,6 +1,6 @@
 # Gregory Babajide V. Osilaja
 
-CELL: +63-9-628692566(whatsapp)  
+CELL: +63-9-628692566([WhatsApp](https://wa.me/639628692566))  
 GITHUB: https://github.com/gregidonut  
 LINKEDIN: https://www.linkedin.com/in/gregory-babajide-v-osilaja-8158211a0/  
 WEBSITE: https://gregosilaja.cc/  
