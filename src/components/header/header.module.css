@@ -11,6 +11,12 @@
     position: relative;
 }
 
+@media print {
+    .header {
+        display: none;
+    }
+}
+
 .nav {
     position: absolute;
     background: #44475a;
