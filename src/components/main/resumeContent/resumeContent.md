@@ -1,8 +1,9 @@
 # Gregory Babajide V. Osilaja
 
-CELL: +63-962-869-2566  
+CELL: +63-9-628692566(whatsapp)  
 GITHUB: https://github.com/gregidonut  
 LINKEDIN: https://www.linkedin.com/in/gregory-babajide-v-osilaja-8158211a0/  
+WEBSITE: https://gregosilaja.cc/  
 EMAIL: gregosilaja@outlook.com  
 ADDRESS: MANILA CITY, METRO MANILA
 
@@ -24,16 +25,17 @@ ADDRESS: MANILA CITY, METRO MANILA
 
 ### EXPERIENCE
 
-**IT Help Desk**  
-Infosys BPM LTD | March 2024 - June 2025 | Taguig
-
-- Developing internal automation tools
-
 **Web Application Developer**  
 Freelance | January 2023 - Present | Manila
 
 - [Developed VEWorkflowAutomation: A content
   generation tool](https://www.linkedin.com/posts/gregory-babajide-v-osilaja-8158211a0_videoautomation-workflow-github-activity-7114563300830441472-5W0p?utm_source=share&utm_medium=member_desktop)
+
+**IT Help Desk**  
+Infosys BPM LTD | March 2024 - June 2025 | Taguig
+
+- Supporting B2B users with Windows, Active Directory, ServiceNow, M365, Azure
+- Developing internal automation tools
 
 **Technical Support**  
 Cognizant Technology Solutions | November 2019 –
